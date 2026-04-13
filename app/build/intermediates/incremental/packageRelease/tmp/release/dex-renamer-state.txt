@@ -1,4 +1,4 @@
-#Mon Apr 13 00:28:18 MSK 2026
+#Mon Apr 13 13:09:25 MSK 2026
 base.0=C\:\\Users\\arsen\\www\\testingPWA\\my-app\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
